@@ -1,0 +1,9 @@
+* cl-package-locks
+
+A compatability layer for dealing with package locks in a uniform manner.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/elliottjohnson/cl-package-locks.git |
+| commit  | 96a358e                                                    |
+| systems | cl-package-locks                                           |
+|---------+------------------------------------------------------------|
